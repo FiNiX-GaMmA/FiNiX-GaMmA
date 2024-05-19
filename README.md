@@ -1,5 +1,3 @@
-## Profile Readme for @Aryaroop Majumder aka. FiNiX-GaMmA
-
 👋 Hi there, I'm Aryaroop (aka. @FiNiX-GaMmA), a passionate coder exploring the vast world of programming to solve intriguing problems. Currently pursuing B.Tech in Computer Science Engineering, I thrive on diving deep into the realms of Python and Data-Science, seeking collaborative projects to expand my skills and knowledge.
 
 ### About Me
